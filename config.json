@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailpecrypt",
+        "uuid": 28962822,
+        "checksum": "w2pek"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
